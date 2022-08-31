@@ -1,0 +1,6 @@
+com\finder\util\ReaderRows.class
+com\finder\algorithms\MatcherIndex.class
+com\finder\algorithms\CompatibilityFinder.class
+com\finder\main\Main.class
+com\finder\properties\Properties.class
+com\finder\util\WriterData.class
